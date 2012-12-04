@@ -1,0 +1,5 @@
+DataTables is dual licensed under the 
+
+  GPL v2 license (http://datatables.net/license_gpl2)
+
+  or a BSD (3-point) license (http://datatables.net/license_bsd)
