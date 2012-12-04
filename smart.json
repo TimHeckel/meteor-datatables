@@ -4,7 +4,7 @@
   "homepage": "https://github.com/TimHeckel/meteor-datatables",
   "author": "Tim Heckel  (http://timheckel.com)",
   "version": "0.1.0",
-  "git": "https://github.com/timheckel/meteor-datatables.git",
+  "git": "https://github.com/TimHeckel/meteor-datatables.git",
   "packages": {
     "bootstrap-updated": "1.0.1"
   }
