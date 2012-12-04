@@ -3,7 +3,7 @@
   "description": "DataTables with bindings for Twitter Bootstrap",
   "homepage": "https://github.com/TimHeckel/meteor-datatables",
   "author": "Tim Heckel  (http://timheckel.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/TimHeckel/meteor-datatables.git",
   "packages": {
     "bootstrap-updated": "1.0.1"
