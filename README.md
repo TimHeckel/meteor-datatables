@@ -1,6 +1,3 @@
-DataTables Meteor Smart Package
-====================
-
 ##What is it?
 This is a smart package built for use with Meteor and the Twitter Bootstrap library, using the [example defined here](http://datatables.net/blog/Twitter_Bootstrap_2) as a basis.
 
